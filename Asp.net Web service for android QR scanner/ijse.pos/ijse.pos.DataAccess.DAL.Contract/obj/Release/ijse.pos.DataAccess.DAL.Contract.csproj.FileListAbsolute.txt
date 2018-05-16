@@ -1,0 +1,5 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Release\ijse.pos.DataAccess.DAL.Contract.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Release\ijse.pos.DataAccess.DAL.Contract.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Release\ijse.pos.DataAccess.DAL.Contract.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Release\ijse.pos.DataAccess.DAL.Contract.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Release\ijse.pos.DataAccess.DAL.Contract.pdb

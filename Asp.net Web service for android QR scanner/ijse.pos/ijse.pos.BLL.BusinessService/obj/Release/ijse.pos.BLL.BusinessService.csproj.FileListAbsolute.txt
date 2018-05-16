@@ -1,0 +1,17 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.BLL.BusinessService.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.BLL.BusinessService.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.BLL.BusinessService.Contracts.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.Common.Model.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.Common.Utils.Log.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.DataAccess.DAL.Contract.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.DataAccess.DAL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.BLL.BusinessService.Contracts.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.Common.Model.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.Common.Utils.Log.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.DataAccess.DAL.Contract.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\ijse.pos.DataAccess.DAL.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\bin\Release\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\obj\Release\ijse.pos.BLL.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\obj\Release\ijse.pos.BLL.BusinessService.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService\obj\Release\ijse.pos.BLL.BusinessService.pdb

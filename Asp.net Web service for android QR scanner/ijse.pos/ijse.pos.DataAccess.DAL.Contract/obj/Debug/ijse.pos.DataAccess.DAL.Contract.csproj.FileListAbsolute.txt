@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Debug\ijse.pos.DataAccess.DAL.Contract.dll
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Debug\ijse.pos.DataAccess.DAL.Contract.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Debug\ijse.pos.DataAccess.DAL.Contract.dll.CodeAnalysisLog.xml
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Debug\ijse.pos.DataAccess.DAL.Contract.dll.lastcodeanalysissucceeded
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Debug\ijse.pos.DataAccess.DAL.Contract.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Debug\ijse.pos.DataAccess.DAL.Contract.dll
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Debug\ijse.pos.DataAccess.DAL.Contract.pdb
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Debug\ijse.pos.DataAccess.DAL.Contract.dll
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\bin\Debug\ijse.pos.DataAccess.DAL.Contract.pdb
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Debug\ijse.pos.DataAccess.DAL.Contract.csprojResolveAssemblyReference.cache
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Debug\ijse.pos.DataAccess.DAL.Contract.dll
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL.Contract\obj\Debug\ijse.pos.DataAccess.DAL.Contract.pdb

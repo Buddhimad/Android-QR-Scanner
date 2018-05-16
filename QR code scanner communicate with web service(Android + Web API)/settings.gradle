@@ -1,0 +1,1 @@
+include ':app', ':sqljdbc-2.0', ':mysql-connector-java-5.1.23-bin'

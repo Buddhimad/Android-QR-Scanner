@@ -1,0 +1,10 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\bin\Release\ijse.pos.Common.Model.dll.config
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\bin\Release\ijse.pos.Common.Model.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\bin\Release\ijse.pos.Common.Model.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\bin\Release\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\bin\Release\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\obj\Release\ijse.pos.Common.Model.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\obj\Release\ijse.pos.Common.Model.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Model\obj\Release\ijse.pos.Common.Model.pdb

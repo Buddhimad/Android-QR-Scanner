@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\bin\Debug\ijse.pos.Common.Utils.Log.dll
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\bin\Debug\ijse.pos.Common.Utils.Log.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\bin\Debug\ijse.pos.Common.Utils.Log.dll.CodeAnalysisLog.xml
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\bin\Debug\ijse.pos.Common.Utils.Log.dll.lastcodeanalysissucceeded
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\obj\Debug\ijse.pos.Common.Utils.Log.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\obj\Debug\ijse.pos.Common.Utils.Log.dll
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\obj\Debug\ijse.pos.Common.Utils.Log.pdb
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\bin\Debug\ijse.pos.Common.Utils.Log.dll
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\bin\Debug\ijse.pos.Common.Utils.Log.pdb
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\obj\Debug\ijse.pos.Common.Utils.Log.csprojResolveAssemblyReference.cache
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\obj\Debug\ijse.pos.Common.Utils.Log.dll
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.Common.Utils.Log\obj\Debug\ijse.pos.Common.Utils.Log.pdb

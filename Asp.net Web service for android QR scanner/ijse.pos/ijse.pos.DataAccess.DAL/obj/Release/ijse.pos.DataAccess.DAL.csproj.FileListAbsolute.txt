@@ -1,0 +1,16 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\ijse.pos.DataAccess.DAL.dll.config
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\ijse.pos.DataAccess.DAL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\ijse.pos.DataAccess.DAL.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\ijse.pos.Common.Model.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\ijse.pos.DataAccess.DAL.Contract.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\ijse.pos.Common.Model.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\ijse.pos.DataAccess.DAL.Contract.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\obj\Release\ijse.pos.DataAccess.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\obj\Release\ijse.pos.DataAccess.DAL.Migrations.DBInit.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\obj\Release\ijse.pos.DataAccess.DAL.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\obj\Release\ijse.pos.DataAccess.DAL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.DataAccess.DAL\obj\Release\ijse.pos.DataAccess.DAL.pdb

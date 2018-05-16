@@ -1,0 +1,7 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Release\ijse.pos.BLL.BusinessService.Contracts.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Release\ijse.pos.BLL.BusinessService.Contracts.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Release\ijse.pos.Common.Model.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Release\ijse.pos.Common.Model.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Release\ijse.pos.BLL.BusinessService.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Release\ijse.pos.BLL.BusinessService.Contracts.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Release\ijse.pos.BLL.BusinessService.Contracts.pdb

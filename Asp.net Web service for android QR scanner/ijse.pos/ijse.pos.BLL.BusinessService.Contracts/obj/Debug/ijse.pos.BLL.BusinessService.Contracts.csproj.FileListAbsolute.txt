@@ -1,0 +1,14 @@
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.BLL.BusinessService.Contracts.dll
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.BLL.BusinessService.Contracts.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.Common.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.Common.Model.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Debug\ijse.pos.BLL.BusinessService.Contracts.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Debug\ijse.pos.BLL.BusinessService.Contracts.dll
+c:\users\dell\documents\visual studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Debug\ijse.pos.BLL.BusinessService.Contracts.pdb
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.BLL.BusinessService.Contracts.dll
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.BLL.BusinessService.Contracts.pdb
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.Common.Model.dll
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\bin\Debug\ijse.pos.Common.Model.pdb
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Debug\ijse.pos.BLL.BusinessService.Contracts.csprojResolveAssemblyReference.cache
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Debug\ijse.pos.BLL.BusinessService.Contracts.dll
+E:\nn\Visual Studio 2015\Projects\ijse.pos\ijse.pos.BLL.BusinessService.Contracts\obj\Debug\ijse.pos.BLL.BusinessService.Contracts.pdb
